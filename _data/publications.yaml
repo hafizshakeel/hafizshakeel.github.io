@@ -3,11 +3,12 @@
 papers:
     - title: "A nonconvex approach with structural priors for restoring underwater images"
       authors: "<b>H. S. A. Awan</b> and M. T. Mahmood"
-      venue: "Mathematics and Computer Science"
+      # venue: "Mathematics and Computer Science"
       # paper_pdf: "Link not available"
       # image: "path_to_your_image"
       selected: n
-      status: "Under Review"
+      # status: "Under Review"
+      venue: "Under Review"
     
     - title: "Deep dynamic weights for underwater image restoration"
       authors: "<b>H. S. A. Awan</b> and M. T. Mahmood"
