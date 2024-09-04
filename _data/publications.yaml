@@ -12,7 +12,7 @@ papers:
     
     - title: "Deep dynamic weights for underwater image restoration"
       authors: "<b>H. S. A. Awan</b> and M. T. Mahmood"
-      venue: "Journal of Marine Science and Engineering"
+      venue: "Journal of Marine Science and Engineering 12 (7), 1208. 2024."
       paper_pdf: "https://www.mdpi.com/2077-1312/12/7/1208"
       image: "/assets/publications/2024_JMSE/jmse-12-01208-v2.jpg"
       selected: y
@@ -20,7 +20,7 @@ papers:
   
     - title: "Underwater image restoration through color correction and uw-net"
       authors: "<b>H. S. A. Awan</b> and M. T. Mahmood"
-      venue: "Electronics"
+      venue: "Electronics 13 (1), 199. 2024."
       paper_pdf: "https://www.mdpi.com/2079-9292/13/1/199"
       image: "/assets/publications/2024_ELECTRONICS/electronics-13-00199.jpg"
       selected: y
@@ -30,14 +30,14 @@ papers:
   
     - title: "Color correction for underwater image restoration"
       authors: "<b>H. S. A. Awan</b>, K. Ashfaq, S. M. Khan, and M. Tariq"
-      venue: "The Korean Institutes of Communications and Information Sciences (KICS) 2023"
+      venue: "The Korean Institutes of Communications and Information Sciences (KICS). 2023."
       paper_pdf: "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11487890"
       # image: "path_to_your_image"
       selected: n
   
     - title: "A nonconvex approach for restoring underwater images with structural priors"
       authors: "<b>H. S. A. Awan</b> and M. T. Mahmood"
-      venue: "The Korean Institutes of Communications and Information Sciences (KICS) 2023"
+      venue: "The Korean Institutes of Communications and Information Sciences (KICS). 2023."
       paper_pdf: "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11227426"
       # image: "path_to_your_image"
       selected: n
