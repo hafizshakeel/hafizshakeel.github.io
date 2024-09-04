@@ -1,0 +1,22 @@
+# template:
+experiences:
+
+- place: "KOREATECH, South Korea"
+  time: "2023 – 2024"
+  title: "Research Assistant"
+  subtitle: "Image Processing, Computer Vision, Deep Learning."
+  category: "research"
+
+- place: "Freelancer, Pakistan"
+  time: "2018 – 2022"
+  title: "Web Designer & Developer"
+  subtitle: "Designed high-quality, customized business, e-commerce, and portfolio websites."
+  category: "work"
+
+- place: "MUST, Pakistan"
+  time: "2016 – 2020"
+  title: "B.Sc. in Software Engineering"
+  subtitle: "Graduated with CGPA: 3.56/4.0"
+  category: "education"
+
+
